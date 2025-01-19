@@ -80,7 +80,7 @@ To replicate this analysis:
 4. Launch Jupyter Notebook:
    ``` bash
    jupyter notebook
-5. Open and run the `task_2.ipynb notebook` to reproduce the analysis.
+5. Open and run the `notebook.ipynb` to reproduce the analysis.
 
 ## Dependencies
 
